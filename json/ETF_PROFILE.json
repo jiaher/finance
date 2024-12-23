@@ -1,0 +1,564 @@
+{
+    "net_assets": "291866000000",
+    "net_expense_ratio": "0.002",
+    "portfolio_turnover": "0.221",
+    "dividend_yield": "0.006",
+    "inception_date": "1999-03-10",
+    "leveraged": "NO",
+    "asset_allocation": {
+        "domestic_equities": "0.972",
+        "foreign_equities": "0.027",
+        "bond": "0.0",
+        "cash": "0.001",
+        "other": "0.0"
+    },
+    "sectors": [
+        {
+            "sector": "INFORMATION TECHNOLOGY",
+            "weight": "0.488"
+        },
+        {
+            "sector": "COMMUNICATION SERVICES",
+            "weight": "0.167"
+        },
+        {
+            "sector": "CONSUMER DISCRETIONARY",
+            "weight": "0.147"
+        },
+        {
+            "sector": "CONSUMER STAPLES",
+            "weight": "0.052"
+        },
+        {
+            "sector": "HEALTHCARE",
+            "weight": "0.048"
+        },
+        {
+            "sector": "INDUSTRIALS",
+            "weight": "0.043"
+        },
+        {
+            "sector": "MATERIALS",
+            "weight": "0.012"
+        },
+        {
+            "sector": "UTILITIES",
+            "weight": "0.012"
+        },
+        {
+            "sector": "FINANCIALS",
+            "weight": "0.006"
+        },
+        {
+            "sector": "ENERGY",
+            "weight": "0.005"
+        }
+    ],
+    "holdings": [
+        {
+            "symbol": "AAPL",
+            "description": "APPLE INC",
+            "weight": "0.0877"
+        },
+        {
+            "symbol": "MSFT",
+            "description": "MICROSOFT CORP",
+            "weight": "0.0772"
+        },
+        {
+            "symbol": "NVDA",
+            "description": "NVIDIA CORP",
+            "weight": "0.0744"
+        },
+        {
+            "symbol": "AVGO",
+            "description": "BROADCOM INC",
+            "weight": "0.0688"
+        },
+        {
+            "symbol": "AMZN",
+            "description": "AMAZON.COM INC",
+            "weight": "0.0562"
+        },
+        {
+            "symbol": "TSLA",
+            "description": "TESLA INC",
+            "weight": "0.0515"
+        },
+        {
+            "symbol": "META",
+            "description": "META PLATFORMS INC CLASS A",
+            "weight": "0.0499"
+        },
+        {
+            "symbol": "GOOGL",
+            "description": "ALPHABET INC CLASS A",
+            "weight": "0.0265"
+        },
+        {
+            "symbol": "COST",
+            "description": "COSTCO WHOLESALE CORP",
+            "weight": "0.0261"
+        },
+        {
+            "symbol": "GOOG",
+            "description": "ALPHABET INC CLASS C",
+            "weight": "0.0254"
+        },
+        {
+            "symbol": "NFLX",
+            "description": "NETFLIX INC",
+            "weight": "0.0235"
+        },
+        {
+            "symbol": "TMUS",
+            "description": "T-MOBILE US INC",
+            "weight": "0.0159"
+        },
+        {
+            "symbol": "CSCO",
+            "description": "CISCO SYSTEMS INC",
+            "weight": "0.014"
+        },
+        {
+            "symbol": "PEP",
+            "description": "PEPSICO INC",
+            "weight": "0.0127"
+        },
+        {
+            "symbol": "AMD",
+            "description": "ADVANCED MICRO DEVICES INC",
+            "weight": "0.0122"
+        },
+        {
+            "symbol": "LIN",
+            "description": "LINDE PLC",
+            "weight": "0.0121"
+        },
+        {
+            "symbol": "ADBE",
+            "description": "ADOBE INC",
+            "weight": "0.0121"
+        },
+        {
+            "symbol": "ISRG",
+            "description": "INTUITIVE SURGICAL INC",
+            "weight": "0.0114"
+        },
+        {
+            "symbol": "INTU",
+            "description": "INTUIT INC",
+            "weight": "0.0111"
+        },
+        {
+            "symbol": "QCOM",
+            "description": "QUALCOMM INC",
+            "weight": "0.0104"
+        },
+        {
+            "symbol": "BKNG",
+            "description": "BOOKING HOLDINGS INC",
+            "weight": "0.0103"
+        },
+        {
+            "symbol": "TXN",
+            "description": "TEXAS INSTRUMENTS INC",
+            "weight": "0.0103"
+        },
+        {
+            "symbol": "HON",
+            "description": "HONEYWELL INTERNATIONAL INC",
+            "weight": "0.0091"
+        },
+        {
+            "symbol": "CMCSA",
+            "description": "COMCAST CORP CLASS A",
+            "weight": "0.0089"
+        },
+        {
+            "symbol": "AMGN",
+            "description": "AMGEN INC",
+            "weight": "0.0085"
+        },
+        {
+            "symbol": "AMAT",
+            "description": "APPLIED MATERIALS INC",
+            "weight": "0.0083"
+        },
+        {
+            "symbol": "PANW",
+            "description": "PALO ALTO NETWORKS INC",
+            "weight": "0.0078"
+        },
+        {
+            "symbol": "ADP",
+            "description": "AUTOMATIC DATA PROCESSING INC",
+            "weight": "0.0072"
+        },
+        {
+            "symbol": "VRTX",
+            "description": "VERTEX PHARMACEUTICALS INC",
+            "weight": "0.0072"
+        },
+        {
+            "symbol": "MU",
+            "description": "MICRON TECHNOLOGY INC",
+            "weight": "0.0071"
+        },
+        {
+            "symbol": "GILD",
+            "description": "GILEAD SCIENCES INC",
+            "weight": "0.0068"
+        },
+        {
+            "symbol": "MRVL",
+            "description": "MARVELL TECHNOLOGY INC",
+            "weight": "0.0064"
+        },
+        {
+            "symbol": "ADI",
+            "description": "ANALOG DEVICES INC",
+            "weight": "0.0064"
+        },
+        {
+            "symbol": "SBUX",
+            "description": "STARBUCKS CORP",
+            "weight": "0.0063"
+        },
+        {
+            "symbol": "APP",
+            "description": "APPLOVIN CORP ORDINARY SHARES CLASS A",
+            "weight": "0.0061"
+        },
+        {
+            "symbol": "LRCX",
+            "description": "LAM RESEARCH CORP",
+            "weight": "0.006"
+        },
+        {
+            "symbol": "PYPL",
+            "description": "PAYPAL HOLDINGS INC",
+            "weight": "0.0055"
+        },
+        {
+            "symbol": "CRWD",
+            "description": "CROWDSTRIKE HOLDINGS INC CLASS A",
+            "weight": "0.0054"
+        },
+        {
+            "symbol": "MELI",
+            "description": "MERCADOLIBRE INC",
+            "weight": "0.0054"
+        },
+        {
+            "symbol": "INTC",
+            "description": "INTEL CORP",
+            "weight": "0.0053"
+        },
+        {
+            "symbol": "KLAC",
+            "description": "KLA CORP",
+            "weight": "0.0052"
+        },
+        {
+            "symbol": "CTAS",
+            "description": "CINTAS CORP",
+            "weight": "0.0051"
+        },
+        {
+            "symbol": "CDNS",
+            "description": "CADENCE DESIGN SYSTEMS INC",
+            "weight": "0.0051"
+        },
+        {
+            "symbol": "MAR",
+            "description": "MARRIOTT INTERNATIONAL INC CLASS A",
+            "weight": "0.0049"
+        },
+        {
+            "symbol": "MDLZ",
+            "description": "MONDELEZ INTERNATIONAL INC CLASS A",
+            "weight": "0.0049"
+        },
+        {
+            "symbol": "SNPS",
+            "description": "SYNOPSYS INC",
+            "weight": "0.0048"
+        },
+        {
+            "symbol": "REGN",
+            "description": "REGENERON PHARMACEUTICALS INC",
+            "weight": "0.0047"
+        },
+        {
+            "symbol": "FTNT",
+            "description": "FORTINET INC",
+            "weight": "0.0045"
+        },
+        {
+            "symbol": "CEG",
+            "description": "CONSTELLATION ENERGY CORP",
+            "weight": "0.0044"
+        },
+        {
+            "symbol": "ORLY",
+            "description": "O'REILLY AUTOMOTIVE INC",
+            "weight": "0.0044"
+        },
+        {
+            "symbol": "DASH",
+            "description": "DOORDASH INC ORDINARY SHARES CLASS A",
+            "weight": "0.0041"
+        },
+        {
+            "symbol": "ASML",
+            "description": "ASML HOLDING NV ADR",
+            "weight": "0.004"
+        },
+        {
+            "symbol": "ADSK",
+            "description": "AUTODESK INC",
+            "weight": "0.0039"
+        },
+        {
+            "symbol": "PDD",
+            "description": "PDD HOLDINGS INC ADR",
+            "weight": "0.0039"
+        },
+        {
+            "symbol": "CSX",
+            "description": "CSX CORP",
+            "weight": "0.0038"
+        },
+        {
+            "symbol": "TTD",
+            "description": "THE TRADE DESK INC CLASS A",
+            "weight": "0.0035"
+        },
+        {
+            "symbol": "WDAY",
+            "description": "WORKDAY INC CLASS A",
+            "weight": "0.0035"
+        },
+        {
+            "symbol": "CPRT",
+            "description": "COPART INC",
+            "weight": "0.0035"
+        },
+        {
+            "symbol": "ABNB",
+            "description": "AIRBNB INC ORDINARY SHARES CLASS A",
+            "weight": "0.0035"
+        },
+        {
+            "symbol": "PCAR",
+            "description": "PACCAR INC",
+            "weight": "0.0035"
+        },
+        {
+            "symbol": "ROP",
+            "description": "ROPER TECHNOLOGIES INC",
+            "weight": "0.0034"
+        },
+        {
+            "symbol": "NXPI",
+            "description": "NXP SEMICONDUCTORS NV",
+            "weight": "0.0033"
+        },
+        {
+            "symbol": "CHTR",
+            "description": "CHARTER COMMUNICATIONS INC CLASS A",
+            "weight": "0.0032"
+        },
+        {
+            "symbol": "PAYX",
+            "description": "PAYCHEX INC",
+            "weight": "0.003"
+        },
+        {
+            "symbol": "ROST",
+            "description": "ROSS STORES INC",
+            "weight": "0.003"
+        },
+        {
+            "symbol": "MNST",
+            "description": "MONSTER BEVERAGE CORP",
+            "weight": "0.003"
+        },
+        {
+            "symbol": "DDOG",
+            "description": "DATADOG INC CLASS A",
+            "weight": "0.0029"
+        },
+        {
+            "symbol": "AEP",
+            "description": "AMERICAN ELECTRIC POWER CO INC",
+            "weight": "0.0029"
+        },
+        {
+            "symbol": "FANG",
+            "description": "DIAMONDBACK ENERGY INC",
+            "weight": "0.0028"
+        },
+        {
+            "symbol": "FAST",
+            "description": "FASTENAL CO",
+            "weight": "0.0027"
+        },
+        {
+            "symbol": "LULU",
+            "description": "LULULEMON ATHLETICA INC",
+            "weight": "0.0027"
+        },
+        {
+            "symbol": "KDP",
+            "description": "KEURIG DR PEPPER INC",
+            "weight": "0.0027"
+        },
+        {
+            "symbol": "TEAM",
+            "description": "ATLASSIAN CORP A",
+            "weight": "0.0026"
+        },
+        {
+            "symbol": "BKR",
+            "description": "BAKER HUGHES CO CLASS A",
+            "weight": "0.0025"
+        },
+        {
+            "symbol": "EA",
+            "description": "ELECTRONIC ARTS INC",
+            "weight": "0.0025"
+        },
+        {
+            "symbol": "ODFL",
+            "description": "OLD DOMINION FREIGHT LINE INC ORDINARY SHARES",
+            "weight": "0.0025"
+        },
+        {
+            "symbol": "CTSH",
+            "description": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A",
+            "weight": "0.0024"
+        },
+        {
+            "symbol": "VRSK",
+            "description": "VERISK ANALYTICS INC",
+            "weight": "0.0024"
+        },
+        {
+            "symbol": "AZN",
+            "description": "ASTRAZENECA PLC ADR",
+            "weight": "0.0023"
+        },
+        {
+            "symbol": "GEHC",
+            "description": "GE HEALTHCARE TECHNOLOGIES INC COMMON STOCK",
+            "weight": "0.0022"
+        },
+        {
+            "symbol": "KHC",
+            "description": "THE KRAFT HEINZ CO",
+            "weight": "0.0022"
+        },
+        {
+            "symbol": "XEL",
+            "description": "XCEL ENERGY INC",
+            "weight": "0.0022"
+        },
+        {
+            "symbol": "EXC",
+            "description": "EXELON CORP",
+            "weight": "0.0022"
+        },
+        {
+            "symbol": "IDXX",
+            "description": "IDEXX LABORATORIES INC",
+            "weight": "0.0021"
+        },
+        {
+            "symbol": "CCEP",
+            "description": "COCA-COLA EUROPACIFIC PARTNERS PLC",
+            "weight": "0.0021"
+        },
+        {
+            "symbol": "TTWO",
+            "description": "TAKE-TWO INTERACTIVE SOFTWARE INC",
+            "weight": "0.0019"
+        },
+        {
+            "symbol": "MCHP",
+            "description": "MICROCHIP TECHNOLOGY INC",
+            "weight": "0.0019"
+        },
+        {
+            "symbol": "ZS",
+            "description": "ZSCALER INC",
+            "weight": "0.0018"
+        },
+        {
+            "symbol": "CSGP",
+            "description": "COSTAR GROUP INC",
+            "weight": "0.0018"
+        },
+        {
+            "symbol": "ANSS",
+            "description": "ANSYS INC",
+            "weight": "0.0018"
+        },
+        {
+            "symbol": "DXCM",
+            "description": "DEXCOM INC",
+            "weight": "0.0018"
+        },
+        {
+            "symbol": "WBD",
+            "description": "WARNER BROS. DISCOVERY INC ORDINARY SHARES CLASS A",
+            "weight": "0.0017"
+        },
+        {
+            "symbol": "ON",
+            "description": "ON SEMICONDUCTOR CORP",
+            "weight": "0.0017"
+        },
+        {
+            "symbol": "GFS",
+            "description": "GLOBALFOUNDRIES INC",
+            "weight": "0.0014"
+        },
+        {
+            "symbol": "ILMN",
+            "description": "ILLUMINA INC",
+            "weight": "0.0014"
+        },
+        {
+            "symbol": "CDW",
+            "description": "CDW CORP",
+            "weight": "0.0014"
+        },
+        {
+            "symbol": "BIIB",
+            "description": "BIOGEN INC",
+            "weight": "0.0013"
+        },
+        {
+            "symbol": "SMCI",
+            "description": "SUPER MICRO COMPUTER INC",
+            "weight": "0.0012"
+        },
+        {
+            "symbol": "MDB",
+            "description": "MONGODB INC CLASS A",
+            "weight": "0.0012"
+        },
+        {
+            "symbol": "ARM",
+            "description": "ARM HOLDINGS PLC ADR",
+            "weight": "0.0011"
+        },
+        {
+            "symbol": "MRNA",
+            "description": "MODERNA INC",
+            "weight": "0.001"
+        }
+    ]
+}
